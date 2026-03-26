@@ -1,0 +1,4 @@
+Set-Content requirements.txt "streamlit
+pandas
+plotly
+openpyxl"
