@@ -1,4 +1,6 @@
-Set-Content requirements.txt "streamlit
+﻿streamlit
 pandas
 plotly
-openpyxl"
+openpyxl
+folium
+streamlit-folium
