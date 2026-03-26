@@ -1,0 +1,28 @@
+[server]
+headless = true
+port = 8501
+
+[theme]
+base = "light"
+```
+
+---
+
+**Step 5 — Save the file**
+- Press **Ctrl + S** to save
+- Close Notepad
+
+---
+
+## Verify It Was Created Correctly
+
+In Command Prompt type:
+```
+dir .streamlit
+```
+
+You should see `config.toml` listed inside it like this:
+```
+ Directory of C:\Users\DELL\Desktop\restaurent\.streamlit
+
+config.toml
